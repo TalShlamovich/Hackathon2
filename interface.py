@@ -1,10 +1,13 @@
 from tkinter import *
 
 # setting up local ip address and path to host file
-host_path =r'C:\Windows\System32\drivers\etc\hosts'
+host_path ='C:\Windows\System32\drivers\etc\hosts'
 ip_address = '127.0.0.1'
 
-
+# Hello Tal this is a feedback about your hackathon project. I really liked your app it is a good resource to share
+# It was working great and is a useful tool for others to download.
+# The only comment about it is that is not using OOP.
+# Congratulations on your project and hope to see more of those from you
 
 
 
